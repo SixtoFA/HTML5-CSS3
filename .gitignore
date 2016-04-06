@@ -1,0 +1,14 @@
+# OS X Files
+.DS_STORE
+
+# Windows Files
+Thumbs.db
+
+# Java bin Files
+*.class
+
+# Executable Files
+*.exe
+
+# Pyhton bytecode Files
+*.pyc
